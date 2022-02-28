@@ -1,0 +1,3 @@
+SELECT prod_nazwa
+FROM Produkty
+FETCH FIRST 5 ROWS ONLY;
