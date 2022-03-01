@@ -1,3 +1,3 @@
-SELECT prod_id, prod_cena, prod_nazwa
+SELECT prod_nazwa
 FROM Produkty
-ORDER BY prod_cena, prod_nazwa;
+ORDER BY prod_nazwa;
