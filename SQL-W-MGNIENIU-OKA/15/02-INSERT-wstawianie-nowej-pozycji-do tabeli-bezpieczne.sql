@@ -1,0 +1,18 @@
+INSERT INTO Klienci(kl_id,
+ kl_nazwa,
+ kl_adres,
+ kl_miasto,
+ kl_woj,
+ kl_kod,
+ kl_kraj,
+ kl_kontakt,
+ kl_email)
+ VALUES('1000000007',
+ 'Zabawkolandia',
+ 'Miodowa 12',
+ 'Katowice',
+ 'SLK',
+ '41-200',
+ 'Polska',
+ NULL,
+ NULL);
