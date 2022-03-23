@@ -1,0 +1,4 @@
+DECLARE CURSOR Kursor 
+IS 
+SELECT * FROM Klienci 
+WHERE kl_email IS NULL
