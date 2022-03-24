@@ -1,0 +1,3 @@
+ALTER TABLE Klienci 
+ADD CONSTRAINT 
+FOREIGN KEY (kl_id) REFERENCES Klienci (kl_id)
